@@ -1,0 +1,31 @@
+.container {
+    padding: 20px;
+    margin: 10px;
+    border-radius: 8px;
+    color:black;
+   
+}
+.google { background-color: #e5b0aa; font-family: "Sour Gummy", sans-serif;}
+.facebook { background-color: #b2c9e8;font-family: "Sour Gummy", sans-serif; }
+.whatsapp { background-color: #b5f1cb; font-family: "Sour Gummy", sans-serif;}
+.youtube { background-color: #efc0c0;font-family: "Sour Gummy", sans-serif; }
+.instagram { background-color: #ebabda; font-family: "Sour Gummy", sans-serif; }
+.icon {
+    width: 100px;
+    height: auto;
+}
+
+h1, h2 {
+    font-family: "Sour Gummy", sans-serif;
+    text-align: center;
+ 
+}
+
+
+img{
+
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: 0 auto 20px;
+}
